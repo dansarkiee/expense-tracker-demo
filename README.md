@@ -1,3 +1,3 @@
 ## 🎥 Demonstration
 You can view the full walkthrough of the tool's features and predictive dashboard here:
-👉 [Watch Project Demo Video](https://github.com/dansarkiee/expense-tracker-demo/blob/main/expense-tracker-demo.mp4)
+👉 [Watch Project Demo Video](https://drive.google.com/file/d/1aheWKOh8MxphCIGnFRE42fD1MYAwMCHv/view?usp=drivesdk)
